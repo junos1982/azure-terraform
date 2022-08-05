@@ -17,3 +17,5 @@ https://docs.microsoft.com/ko-kr/azure/developer/terraform/create-vm-scaleset-ne
 ## SSH 접속 (Jumpbox , VMSS 가상머신 포함)
 - Jumpbox ssh PEM으로 접속하기
 - Jumpbox을 통한 VMSS 가상머신 SSH PEM으로 접속하기
+  (윈도우(우분투) 접속 불가 , Mac으로 접근 확인)
+  
