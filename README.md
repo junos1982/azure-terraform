@@ -2,7 +2,7 @@
 
 version 1.0 2022.08.05
 
-기본 베이스
+### 참고 문서
 - Terraform을 사용하여 Azure 가상 머신 확장 집합 만들기\
 https://docs.microsoft.com/ko-kr/azure/developer/terraform/create-vm-scaleset-network-disks-hcl
 
