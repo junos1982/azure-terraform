@@ -19,5 +19,7 @@ https://docs.microsoft.com/ko-kr/azure/developer/terraform/create-vm-scaleset-ne
 - Jumpbox ssh PEM으로 접속하기
 - Jumpbox을 통한 VMSS 가상머신 SSH PEM으로 접속하기
 - 접속 OS : 윈도우(우분투) 접속 불가 , Mac으로 접근 확인 (key 파일 권한 문제)
-- 
-  
+
+## VMSS OS 업데이트
+- vmss vm UbuntuServer 16.04-LTS -> 18.04-LTS 변경\n
+  (16버전은 apt-get update 안됨)
