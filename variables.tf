@@ -13,7 +13,7 @@ variable "tags" {
    type        = map(string)
    default = {
         environment  = "Terraform Demo",
-        생성자        = "이동준",
+        생성자        = "홍길동",
         servicename  = "terraform test"
    }
 }
