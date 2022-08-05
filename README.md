@@ -13,6 +13,7 @@ https://docs.microsoft.com/ko-kr/azure/developer/terraform/create-vm-scaleset-ne
 - number > numeric
 - address_prefix → address_prefixes 
 - backend_address_pool_id → backend_address_pool_ids
+- 기타 불필요한 코드 정리
 
 ## SSH 접속 (Jumpbox , VMSS 가상머신 포함)
 - Jumpbox ssh PEM으로 접속하기
